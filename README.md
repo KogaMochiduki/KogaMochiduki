@@ -9,4 +9,4 @@ Hey there! I'm Koga Mochiduki, a engineer from Japan.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KogaMochiduki" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=css,scss,html)
