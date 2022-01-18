@@ -11,6 +11,6 @@ Hey there! I'm Koga Mochiduki, a engineer from Japan.
 </a>
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KogaMochiduki)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KogaMochidukicount_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html)
