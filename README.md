@@ -6,7 +6,7 @@ Hey there! I'm Koga Mochiduki, a engineer from Japan.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KogaMochiduki&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KogaMochiduki&layout=compact&hide=css,scss,mdx" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KogaMochiduki&layout=compact&hide=html,css,scss,mdx" />
 </a>
 
 <!--START_SECTION:lapras-card-->
